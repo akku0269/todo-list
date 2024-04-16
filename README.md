@@ -1,4 +1,4 @@
-todo
+TODO:
 
 
 To use the React To-Do Application, follow these steps:
